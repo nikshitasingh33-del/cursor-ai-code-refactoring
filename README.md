@@ -1,5 +1,4 @@
-# cursor-ai-code-refactoring
-Python code refactoring and coding standards using Cursor AI Agents.
+
 # Cursor AI Code Refactoring
 
 A Python practical project demonstrating how Cursor AI can help improve code readability, apply coding standards, and validate program output.
